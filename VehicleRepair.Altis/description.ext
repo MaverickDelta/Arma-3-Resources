@@ -1,0 +1,9 @@
+
+
+class cfgFunctions
+{
+	#include "functions\functions.hpp"
+};
+
+#include "defines.hpp"
+#include "dialogs\vehicleMenu.hpp"
